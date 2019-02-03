@@ -1,4 +1,6 @@
-# PSD to HTML Responsive + Retina
+# PSD to HTML
+
+Requirements:
 
 -   1 page
 -   HTML/CSS
