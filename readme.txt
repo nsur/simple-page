@@ -1,11 +1,12 @@
-PSD to HTML Responsive + Retina
-
-HTML/CSS
-Google Web Font
-1 page
-Responsive
-Retina
-Use at least jQuery version 2 or 3
-JS Slider 001.png
-JS Mobile default menu
-JS Multi level dropdown menu
+<h1>PSD to HTML Responsive + Retina<h1>
+<ul>
+<li>1 page</li>
+<li>HTML/CSS</li>
+<li>Google Web Font</li>
+<li>Responsive</li>
+<li>Retina</li>
+<li>Use at least jQuery version 2 or 3</li>
+<li>JS Slider</li>
+<li>JS Mobile default menu</li>
+<li>JS Multi level dropdown menu</li>
+</ul>
