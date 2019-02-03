@@ -164,16 +164,12 @@ header {
     background-color: #007BBA;
     color: #ffffff;
 }
-.team-img {
-    min-height: 430px;
-    background-image: url(../img/join.png);
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
+.team-img img {
+    width: 100%;
+    height: auto;
 }
 .team-desc {
     padding: 40px 30px !important;
-    max-width: 540px;
 }
 footer {
     border-top: 4px solid #CDCDCD;
@@ -234,7 +230,7 @@ footer {
     }
 }
 /* Media Max */
-@media (max-width: 1150px) {
+@media (max-width: 1350px) {
     .team .block-note {
         margin-bottom: 0;
     }
